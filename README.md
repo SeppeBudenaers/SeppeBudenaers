@@ -18,10 +18,13 @@ As an electronic engineering student, I'm proficient in a variety of hardware an
 I'm continuously expanding my knowledge in electronic engineering and exploring new technologies in the field. Currently, I'm focusing on deepening my understanding of PCB design, exploring FPGA programming, and gaining expertise in Backend development. I'm also eager to learn about emerging trends such as IoT and wireless communication.
 
 💼 Projects:
-Throughout my academic journey, I've worked on several challenging projects related to electronic design and embedded systems. These projects have allowed me to apply my knowledge in circuit design, firmware development, and testing methodologies. I enjoy tackling complex problems and finding innovative solutions.
+- Portofolio website
+- LAB555 (trying to get a makerspace up and running in hasselt)
+- Repair heroes 
+- Race to the future
 
 🤝 Let's Connect:
-I'm always interested in connecting with fellow electronic engineering students and professionals. Whether it's discussing hardware projects, sharing knowledge, or exploring collaboration opportunities, feel free to reach out to me via email or connect with me on LinkedIn.
+I'm always interested in connecting with fellow like minded people. Whether it's discussing hardware projects, sharing knowledge, or exploring collaboration opportunities, feel free to reach out to me via email or connect with me on LinkedIn.
 
 📫 Contact Me:
 📧 Email: Seppe.Budenaers@gmail.com
