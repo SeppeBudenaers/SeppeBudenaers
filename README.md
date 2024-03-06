@@ -3,7 +3,7 @@
 #### Freelancer |🎓 Electronic Engineering Student | 🔌 Hardware & software Enthusiast 
 
 ### 👨‍💻 About Me:
-I'm a dedicated electronic engineering student with a strong passion for technology. Currently pursuing my Electronic Engineering degree, I'm excited to apply my theoretical knowledge and hands-on experience to create and develop ideas. My goal is to contribute to cutting-edge projects that blend the worlds of electronics and software.
+I'm a dedicated electronic engineering student with a strong passion for technology. Currently pursuing my Embedded Engineering degree, I'm excited to apply my theoretical knowledge and hands-on experience to create and develop ideas. My goal is to contribute to cutting-edge projects that blend the worlds of electronics and software.
 
 ### 🔧 Tech Stack:
 - Programming Languages: [C, C++, Python and VHDL]
